@@ -1,0 +1,15 @@
+body{
+    display: block;
+    background-color: rgb(190, 238, 234);
+    color: rgb(252, 40, 3);
+    text-align: center;
+    padding-top: 30px 30px;
+    text-decoration: none;  
+    margin-top: 105px;
+    margin-left: 280px;
+    border: 2px solid whitesmoke;
+    width: 25%;
+    height: 50px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 10px;   
+}
