@@ -1,0 +1,30 @@
+body{
+    display: block;
+    margin-left: 35%;
+    background-color: rgb(244, 236, 253);
+    color: rgb(248, 247, 247);
+    width: 200px;
+    text-align: center;
+    padding-top: 30px;
+    text-decoration: none;
+       
+}
+.submit-btn{
+    text-decoration: none;
+    padding: 3px 3px;
+    color: #2b0320;
+    border-radius: 6px;
+}
+form{
+    margin: auto;
+    background-color: #2b0320;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+}
+p{
+    color: rgb(233, 238, 238);
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 12px;
+}
